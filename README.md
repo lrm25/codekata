@@ -1,1 +1,1 @@
-Projects from [CodeKata](https://codekata.com/)
+Projects from [CodeKata](http://codekata.com/)
